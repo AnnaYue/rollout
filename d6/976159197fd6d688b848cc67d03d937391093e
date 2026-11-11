@@ -1,0 +1,31 @@
+apis/rollout/v1alpha1/validation/rolloutrun_test.go
+  s_90120fceba0af5::t_b285589d517b39 157
+  s_90120fceba0af5::t_a68e6582472e4f 160-167
+  s_90120fceba0af5::t_2f7cea6fec7a0a 158-159
+apis/rollout/v1alpha1/validation/rolloutrun.go
+  s_98c9ef1be866cb::t_2c85b7f963806b 70,72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "d6976159197fd6d688b848cc67d03d937391093e",
+  "prompts": {},
+  "sessions": {
+    "s_90120fceba0af5": {
+      "agent_id": {
+        "tool": "antcc",
+        "id": "4502e7b7-efef-4756-9de7-1444158f7f43",
+        "model": "antchat/DeepSeek-V4.1-Flash-1017"
+      },
+      "human_author": "yuyinglu.yyl <yuyinglu.yyl@antgroup.com>"
+    },
+    "s_98c9ef1be866cb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "s_98c9ef1be866cb",
+        "model": "unknown"
+      },
+      "human_author": "yuyinglu.yyl <yuyinglu.yyl@antgroup.com>"
+    }
+  }
+}
